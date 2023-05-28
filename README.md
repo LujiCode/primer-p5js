@@ -4,4 +4,4 @@ Este trabajo pertenece a Maria Lujan Mansilla y está inspirado en la obra de
 El Lissitzky. "Golpead a los blancos con la cuña roja (Клином красным бей белых!)"
 Rusia, 1920.
 
-[URL del proyecto](https://editor.p5js.org/Luji/sketches/VBuFBIffR)
+[URL del proyecto](https://editor.p5js.org/Luji/sketches/1cwkXw37z)
